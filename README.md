@@ -1,4 +1,7 @@
- <img src= "![image](https://github.com/Nandabdev/Passaros-Selenium.py/assets/132234392/c332c315-4923-4aae-903f-949daf6548be)" width="300" height="200" > 
+<div align = center>
+  <img src= "https://turismodenatureza.com.br/wp-content/uploads/2023/03/passaros-mais-bonitos-do-brasil-1-1200x630.jpg" width="300" height="200" > 
+</div>
+
 
 # Passaros-Selenium.py
 Prática de Web Scraping com Selenium 
