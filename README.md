@@ -6,7 +6,7 @@
 # Passaros-Selenium.py
 Prática de Web Scraping com Selenium 
 
-Esse código realiza a coleta dos 50 pássaros mais bonitos do Brasil
+Esse código realiza a coleta de nome dos 50 pássaros mais bonitos do Brasil, como exibido no site. 
 
 site = https://turismodenatureza.com.br/passaros-mais-bonitos-do-brasil/
 
